@@ -1,6 +1,4 @@
 # https://leetcode.com/problems/excel-sheet-column-number/description/
-import string
-
 
 def title_to_number(column_title: str) -> int:
     result = 0
